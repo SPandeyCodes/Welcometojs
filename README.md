@@ -1,2 +1,2 @@
 # Welcometojs
-javascript codes
+javascript codes and solutions for few beginer level problems 
