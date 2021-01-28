@@ -1,2 +1,2 @@
 # Welcometojs
-javascript codes and solutions for few beginer level problems 
+A Repository of javascript codes and solutions for few beginer level problems.
